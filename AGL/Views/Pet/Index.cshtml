@@ -1,0 +1,30 @@
+﻿@using AGL.Business;
+@using AGL.Data;
+
+@model Dictionary<Gender, IEnumerable<Pet>>
+
+@{
+    ViewBag.Title = "Pet List";
+}
+
+<h2>Index</h2>
+
+<div>
+    <h4>Pet List with owner's gender </h4>
+    <hr />
+
+    @foreach (var item in Model)
+    {
+        <h5>@item.Key</h5>
+
+        <ul>
+            @foreach (var pet in item.Value)
+            {
+                <li>@pet.name</li>
+            }
+
+        </ul>
+    }
+
+</div>
+
