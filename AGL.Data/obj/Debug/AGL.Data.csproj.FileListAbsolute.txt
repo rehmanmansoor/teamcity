@@ -1,6 +1,0 @@
-c:\Users\rehmanmac\documents\visual studio 2015\Projects\AGL\AGL.Data\bin\Debug\AGL.Data.dll
-c:\Users\rehmanmac\documents\visual studio 2015\Projects\AGL\AGL.Data\bin\Debug\AGL.Data.pdb
-c:\Users\rehmanmac\documents\visual studio 2015\Projects\AGL\AGL.Data\obj\Debug\AGL.Data.dll
-c:\Users\rehmanmac\documents\visual studio 2015\Projects\AGL\AGL.Data\obj\Debug\AGL.Data.pdb
-c:\Users\rehmanmac\documents\visual studio 2015\Projects\AGL\AGL.Data\bin\Debug\Newtonsoft.Json.dll
-c:\Users\rehmanmac\documents\visual studio 2015\Projects\AGL\AGL.Data\bin\Debug\Newtonsoft.Json.xml

@@ -1,9 +1,0 @@
-c:\Users\rehmanmac\documents\visual studio 2015\Projects\AGL\AGL.Business\bin\Debug\AGL.Business.dll
-c:\Users\rehmanmac\documents\visual studio 2015\Projects\AGL\AGL.Business\bin\Debug\AGL.Business.pdb
-c:\Users\rehmanmac\documents\visual studio 2015\Projects\AGL\AGL.Business\bin\Debug\AGL.Data.dll
-c:\Users\rehmanmac\documents\visual studio 2015\Projects\AGL\AGL.Business\bin\Debug\Newtonsoft.Json.dll
-c:\Users\rehmanmac\documents\visual studio 2015\Projects\AGL\AGL.Business\bin\Debug\AGL.Data.pdb
-c:\Users\rehmanmac\documents\visual studio 2015\Projects\AGL\AGL.Business\bin\Debug\Newtonsoft.Json.xml
-c:\Users\rehmanmac\documents\visual studio 2015\Projects\AGL\AGL.Business\obj\Debug\AGL.Business.csprojResolveAssemblyReference.cache
-c:\Users\rehmanmac\documents\visual studio 2015\Projects\AGL\AGL.Business\obj\Debug\AGL.Business.dll
-c:\Users\rehmanmac\documents\visual studio 2015\Projects\AGL\AGL.Business\obj\Debug\AGL.Business.pdb
